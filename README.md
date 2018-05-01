@@ -1,1 +1,3 @@
-# Sta663-yw261
+# Sta663-2018-Final Project
+## Scalable K-means++
+## author: Yingshi Chen, Yixuan Wang
